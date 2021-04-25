@@ -1,0 +1,27 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Just Words"
+theme = "kiera"
+
+pygmentsCodeFences = true
+
+Copyright = "&copy; 2021 by Typist"
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Typist"           #Author name
+    #github = ""         #Github username
+    #gitlab = ""         #Gitlab username
+    #linkedin = ""       #LinkedIn username
+    #facebook = ""       #Facebook username
+    #twitter = ""        #Twitter username
+    #instagram = ""      #Instagram username
+    #stackoverflow = ""  #StackOverflow username
+    #devto = ""          #Dev.to username 
+
+[params]
+    tagline = "This is not a blog"
+    customCSS = []  #Optional Customised CSS
+    disableDarkModeCSS = false # disables css style for users using dark-mode

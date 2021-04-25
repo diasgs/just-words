@@ -1,2 +1,2 @@
 # just-words
-An English learning blog
+A tentative of something

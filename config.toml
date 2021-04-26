@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Just Words"
-theme = "kiera"
+theme = "hugo-kiera"
 
 pygmentsCodeFences = true
 
